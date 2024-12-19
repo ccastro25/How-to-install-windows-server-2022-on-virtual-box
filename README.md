@@ -58,6 +58,7 @@
 5. Click **Next** when prompted to select the installation drive (it will select the only available drive).
 6. The installation will begin.
 7. Once done, Windows will restart.
+![completing server installation](https://github.com/user-attachments/assets/e9815292-1ae7-4c40-bdad-196e5983febc)
 
 ## Completing the Installation
 
