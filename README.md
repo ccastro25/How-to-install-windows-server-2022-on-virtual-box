@@ -13,7 +13,7 @@
 - Go to [Microsoft's Download Page](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=21a32a8c5fc66b5b1dff3fdd5ea96a8f).
 - Select the ISO download for the 64-bit edition.
 ![download server 2022](https://github.com/user-attachments/assets/e80a6343-9d3b-474f-bc06-51c5b9c3f12c)
-![finishing server install](https://github.com/user-attachments/assets/a37dd102-4107-4b3b-8d01-5131d4a4ffb9)
+
 
 ## Download VirtualBox
 
