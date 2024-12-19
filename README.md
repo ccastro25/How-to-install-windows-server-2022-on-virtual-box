@@ -27,6 +27,7 @@
 9. At the next screen, leave it at the default and click **Next**.
 10. At the Ready to Install screen, click **Install**.
 11. Lastly, you will see a message that "Oracle VirtualBox 7.1.4 installation is complete". Click **Finish**.
+![installing VB](https://github.com/user-attachments/assets/d4a76465-a928-421d-b019-199846310b53)
 
 ## Create a New Virtual Machine
 
