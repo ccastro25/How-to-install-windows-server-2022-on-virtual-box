@@ -23,9 +23,9 @@
 4. A pop-up will appear asking, "Do you want to allow this app to make changes to your device?" Select **Yes**.
 5. You will arrive at the "Welcome to the Oracle VirtualBox Setup Wizard", click **Next**.
 6. At the End-User License Agreement screen, select "I accept the terms in the License Agreement", then click **Next**.
-7. At the Custom Setup screen, click **Next**. If you see a warning about Network Interfaces, click **Yes**.
-8. At the Missing Dependencies (Python Core/Win32api), click **Yes**.
-9. At the next screen, leave it at the default and click **Next**.
+7. Once your at the Custom Setup screen, click **Next**. If you see a warning about Network Interfaces, click **Yes**.
+8. When you reached the Missing Dependencies (Python Core/Win32api), click **Yes**.
+9. Now at the next screen, leave it at the default and click **Next**.
 10. At the Ready to Install screen, click **Install**.
 11. Lastly, you will see a message that "Oracle VirtualBox 7.1.4 installation is complete". Click **Finish**.
 ![installing VB](https://github.com/user-attachments/assets/d4a76465-a928-421d-b019-199846310b53)
