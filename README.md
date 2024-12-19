@@ -40,7 +40,7 @@
 
 6. Stay within the green zone when sharing your system's RAM and processors.
 
- -**Virtual Hard Disk**: At the Virtual Hard Disk window:
+ - **Virtual Hard Disk**: At the Virtual Hard Disk window:
    To check how much free space your hard drive has, select `Start > Settings > Storage`. Under Local Disk, you will see the available free space.
    
 2. Allocate as much space as you need but avoid exceeding half of your physical hard drive's capacity.
