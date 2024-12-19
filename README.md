@@ -2,14 +2,11 @@
 
 ## Check for Virtualization
 
-1. **Using Command Prompt**:
-   - Hit `Start`, go to `System`, and open `Command Prompt`.
-   - In Command Prompt, type `systeminfo`.
-   - Scroll down and check if virtualization is enabled in firmware.
 
-2. **Using Task Manager**:
+1. **Using Task Manager**:
    - Go to `Start`, open `Task Manager`.
    - Look for `Virtualization` and ensure it says enabled.
+![check Virtualization](https://github.com/user-attachments/assets/ecbf67c6-e2cf-401a-9f1f-39cf2afbffda)
 
 ## Download Windows Server 2022 ISO
 
