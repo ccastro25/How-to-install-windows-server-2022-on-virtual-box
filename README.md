@@ -4,7 +4,7 @@
 
 
  **Using Task Manager**:
-   - Go to `Start`, open `Task Manager`.
+   - Go to `Start`>`Windows System` , open `Task Manager` and select the Performance tab.
    - Look for `Virtualization` and ensure it says enabled.
 ![check Virtualization](https://github.com/user-attachments/assets/ecbf67c6-e2cf-401a-9f1f-39cf2afbffda)
 
