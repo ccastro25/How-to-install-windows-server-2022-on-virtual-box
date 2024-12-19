@@ -47,6 +47,7 @@
    
 2. Allocate as much space as you need but avoid exceeding half of your physical hard drive's capacity.
 3. You will reach the Summary screen. Review your selections, and if satisfied, click **Finish**.
+![adding harddrive and finalizing vm install](https://github.com/user-attachments/assets/29708f85-23e8-49a0-9766-97cb001445b0)
 
 ## Starting the Server
 
