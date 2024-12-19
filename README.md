@@ -59,12 +59,13 @@
 5. Click **Next** when prompted to select the installation drive (it will select the only available drive).
 6. The installation will begin.
 7. Once done, Windows will restart.
-![completing server installation](https://github.com/user-attachments/assets/e9815292-1ae7-4c40-bdad-196e5983febc)
+![starting server](https://github.com/user-attachments/assets/4e5cf1e1-6c65-4e87-94cd-d6759a67dc30)
+
 
 ## Completing the Installation
 
 1. You will be prompted to set a password for the admin. Enter a password.
 2. Press `Ctrl+Alt+Delete` to unlock. In VirtualBox, go to `Input > Keyboard > Insert Ctrl+Alt+Delete`.
 3. Log in using the admin credentials.
-
+![completing server installation](https://github.com/user-attachments/assets/e9815292-1ae7-4c40-bdad-196e5983febc)
 Congratulations! You have successfully installed Windows Server 2022 on VirtualBox.
