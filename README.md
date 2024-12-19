@@ -3,7 +3,7 @@
 ## Check for Virtualization
 
 
-1. **Using Task Manager**:
+ **Using Task Manager**:
    - Go to `Start`, open `Task Manager`.
    - Look for `Virtualization` and ensure it says enabled.
 ![check Virtualization](https://github.com/user-attachments/assets/ecbf67c6-e2cf-401a-9f1f-39cf2afbffda)
