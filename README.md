@@ -12,6 +12,7 @@
 
 - Go to [Microsoft's Download Page](https://www.microsoft.com/en-us/evalcenter/download-windows-server-2022?msockid=21a32a8c5fc66b5b1dff3fdd5ea96a8f).
 - Select the ISO download for the 64-bit edition.
+![download server 2022](https://github.com/user-attachments/assets/e80a6343-9d3b-474f-bc06-51c5b9c3f12c)
 
 ## Download VirtualBox
 
@@ -39,10 +40,8 @@
 
 6. Stay within the green zone when sharing your system's RAM and processors.
 
-### Virtual Hard Disk
-
-1. At the Virtual Hard Disk window:
-   - To check how much free space your hard drive has, select `Start > Settings > Storage`. Under Local Disk, you will see the available free space.
+ **Virtual Hard Disk**: At the Virtual Hard Disk window:
+   To check how much free space your hard drive has, select `Start > Settings > Storage`. Under Local Disk, you will see the available free space.
    
 2. Allocate as much space as you need but avoid exceeding half of your physical hard drive's capacity.
 3. You will reach the Summary screen. Review your selections, and if satisfied, click **Finish**.
