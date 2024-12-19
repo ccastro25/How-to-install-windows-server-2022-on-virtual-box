@@ -38,6 +38,7 @@
 5. At the hardware window, allocate resources to your VM:
    - **RAM**: To check how much RAM your system has, click `Start > Settings icon > About`. The RAM size is displayed under Installed RAM.
    - **Processors**: To check how many processors your system has, click `Start > System > Task Manager`. Under the Performance tab, select CPU, and it will show the number of cores.
+![adding ram and cores](https://github.com/user-attachments/assets/b4e292a5-fa68-4dbf-a770-f19bb23cab38)
 
 6. Stay within the green zone when sharing your system's RAM and processors.
 
